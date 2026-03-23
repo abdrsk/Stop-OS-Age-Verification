@@ -6,7 +6,7 @@ A repository of arguments we can use to try stop the age verifications laws of F
 | In need of a proper README.md and layout  |
 
 ## Maintainence
-> by abdrsk
+> by abdrsk  
 If FOSS OS projects (like BSD's and Linux distributions) fail to comply with
 the law, they might face bills more expensive than their budget, making the
 devolopers have to work at elsewhere for money, causing maintainence latencies
